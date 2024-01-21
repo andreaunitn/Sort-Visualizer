@@ -5,8 +5,8 @@ Simple sort visualizer made with [Raylib](https://www.raylib.com/) and C++. Impl
 - Insertion sort;
 - Selection sort.
 
-  ## Execution
-  To run the program, make sure to first have [installed Raylib](https://github.com/raysan5/raylib?tab=readme-ov-file#build-and-installation) and then use:
-  ```
-  ./build.sh
-  ```
+## Execution
+To run the program, make sure to first have [installed](https://github.com/raysan5/raylib?tab=readme-ov-file#build-and-installation) Raylib and then use:
+```
+./build.sh
+```
