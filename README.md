@@ -10,3 +10,4 @@ To run the program, make sure to first have [installed](https://github.com/raysa
 ```
 ./build.sh
 ```
+Coded and tested on Ubuntu 20.04.6.
